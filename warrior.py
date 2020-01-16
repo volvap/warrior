@@ -6,7 +6,7 @@ class Warrior():
              "Greatest")
 
     def __init__(self):
-        self.experience = 100
+        self.experience = 101
         self.achivments = []
 
     @property
